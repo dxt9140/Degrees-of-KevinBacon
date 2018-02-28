@@ -12,16 +12,6 @@ import unicodedata
 # Bacon.
 TARGET_ACCOUNT = '@KevinBacon'
 
-# enter your keys, and tokens obtained from your twitter app
-consumer_key="M9DkwDR6NLWGCe8lFKJr8U7KI"
-consumer_secret="hNvWeWS4zdy0o4lAcBWUAPG8LcS1Ovr8iD4WNdBz5S51hGARCX"
-access_token="85429056-cn10mxq3dCXyrEe2NUg9BE8Djs4LDNeS04gm6q8A2"
-access_token_secret="Ou2y55wygF5UBW6OSukO6NS4NedxrobZVGwJf33WzQjcW"
-
-# oauth2 token for better query rate. Better than oauth1 because this is
-# read only, whereas oauth1 has write access.
-ACCESS_TOKEN = 'AAAAAAAAAAAAAAAAAAAAALwv4QAAAAAAoBlY2e5YrvqY0xeHlT2OQhqjAJc%3DfkRIGsZTzbQ2R3mst8hHd3ExBXs57qosejdHInkw7VQvsEGRzz'
-
 """
 Set containing words to ignore when creating valuable_words dictionary.
 """

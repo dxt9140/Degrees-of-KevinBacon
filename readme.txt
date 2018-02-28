@@ -24,6 +24,11 @@ Execution:
 	Note: In all cases, specifying a user MUST begin with the @symbol,
 	otherwise the Twitter API will return an error.
 
+Important note about execution: With this code, the program WILL NOT run. The
+reason is because I have removed twitter authorization codes that are personal
+to me! In order to execute the code, you must obtain authorization from twitter
+by creating a Twitter app (search the internet for further instrctions).
+
 Example:
 
 	The file test1.txt contains a simple example using the command:
